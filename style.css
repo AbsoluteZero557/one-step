@@ -106,6 +106,9 @@ body {
   row-gap: 5px;
 }
 #second_main_image {
+  width: 425px;
+  margin-top: 25px;
+  margin-bottom: 25px;
   background-image: url(./second.jpg);
   grid-row: 2;
   grid-column: 3;
