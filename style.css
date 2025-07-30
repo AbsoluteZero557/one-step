@@ -108,7 +108,7 @@ body {
 #second_main_image {
   grid-column: 3;
   grid-row: 2;
-  background-image: url(/source/pictures/pexels-kampus-6682778.jpg);
+  background-image: url(/source/pictures/second.jpg);
   background-size: cover;
   overflow: hidden;
 }
@@ -123,7 +123,7 @@ body {
   justify-content: space-between;
 }
 #C_first {
-  background-image: url(/source/pictures/markus-winkler-48CkLuEGgWU-unsplash.jpg);
+  background-image: url(/source/pictures/contact.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 100%;
@@ -138,7 +138,7 @@ a:hover {
 }
 #Ab_first {
   /*Contact page */
-  background-image: url(/source/pictures/sean-stratton-ObpCE_X3j6U-unsplash.jpg);
+  background-image: url(/source/pictures/about.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 100%;
@@ -157,7 +157,7 @@ a:hover {
 }
 .Sc1 {
   height: 700px;
-  background: url(/source/pictures/max-bender-YOk0D5sz3e4-unsplash.jpg);
+  background: url(/source/pictures/third-1.jpg);
   background-position: 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -168,7 +168,7 @@ a:hover {
 }
 .Sc2 {
   height: 700px;
-  background: url(/source/pictures/yumu-c6QH1SXGS8M-unsplash.jpg);
+  background: url(/source/pictures/third-2.jpg);
   background-position: 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -179,7 +179,7 @@ a:hover {
 }
 .Sc3 {
   height: 700px;
-  background: url(/source/pictures/annie-spratt-vGgn0xLdy8s-unsplash.jpg);
+  background: url(/source/pictures/third-3.jpg);
   background-position: 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -321,7 +321,7 @@ input:checked ~ .slide {
 }
 /* ...................................................................................................................... */
 #under_work {
-  background-image: url(/source/pictures/pexels-alleksana-4271927.jpg);
+  background-image: url(/source/pictures/under-work.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 100%;
