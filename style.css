@@ -1,14 +1,14 @@
 @font-face {
   font-family: "Fancy";
-  src: url(/fonts/blackoutoldskull.otf);
+  src: url(./blackoutoldskull.otf);
 }
 @font-face {
   font-family: Fancy_small;
-  src: url(/fonts/scriptorial.ttf);
+  src: url(./scriptorial.ttf);
 }
 @font-face {
   font-family: regular;
-  src: url(/fonts/cs-cartage-demo.regular.otf);
+  src: url(./cs-cartage-demo.regular.otf);
 }
 /* Main ........................................................................................ */
 body {
@@ -106,9 +106,9 @@ body {
   row-gap: 5px;
 }
 #second_main_image {
+  background-image: url(./second.jpg);
   grid-column: 3;
   grid-row: 2;
-  background-image: url(./second.jpg);
   background-size: cover;
   overflow: hidden;
 }
