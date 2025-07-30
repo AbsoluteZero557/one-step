@@ -17,7 +17,7 @@ body {
   margin: 0;
 }
 #first_s {
-  background-image: url(./source/pictures/home.jpg);
+  background-image: url(/source/pictures/home.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 100%;
