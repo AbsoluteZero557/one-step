@@ -59,17 +59,17 @@ body {
 }
 .text_1 {
   text-align: left;
-  color: rgb(255, 59, 48);
+  color: #ff3b30;
   font-size: 79px;
-  font-family: "Fancy", sans-serif;
   font-weight: 100;
+  font-family: "Fancy", sans-serif;
   margin-bottom: 0px;
   text-shadow: 1px 2px 1px black, 1px 2px 1px rgb(225, 111, 48);
 }
 .text_2 {
   margin-left: 30px;
-  font-size: 30px;
   color: rgb(225, 111, 48);
+  font-size: 30px;
   font-family: "regular", sans-serif;
 }
 #second_section {
