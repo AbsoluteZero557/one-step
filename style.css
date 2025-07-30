@@ -106,11 +106,11 @@ body {
   row-gap: 5px;
 }
 #second_main_image {
+  grid-column: 3;
+  grid-row: 2;
   background-image: url(./second.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: 100%;
-  background-clip: padding-box;
+  overflow: hidden;
 }
 #four_section {
   height: 55px;
