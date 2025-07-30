@@ -1,14 +1,14 @@
 @font-face {
   font-family: "Fancy";
-  src: url(../Fonts/BlackoutOldskull.otf);
+  src: url(../fonts/blackoutoldskull.otf);
 }
 @font-face {
   font-family: Fancy_small;
-  src: url(../Fonts/Scriptorial.ttf);
+  src: url(../fonts/scriptorial.ttf);
 }
 @font-face {
   font-family: regular;
-  src: url(../Fonts/cs-cartage-demo.regular.otf);
+  src: url(../fonts/cs-cartage-demo.regular.otf);
 }
 /* Main ........................................................................................ */
 body {
